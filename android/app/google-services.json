@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672166781879",
+    "project_id": "kosku-810d5",
+    "storage_bucket": "kosku-810d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672166781879:android:e124aadcf78e0f6ac87e32",
+        "android_client_info": {
+          "package_name": "com.rensimyl.kosku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672166781879-hddk3604q9kuk9e3ju64850lu1mtdsb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9DTvfKinLctefcpb8gDMH5Eo2beepGUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672166781879-hddk3604q9kuk9e3ju64850lu1mtdsb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
